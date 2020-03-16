@@ -1,0 +1,32 @@
+[
+    
+    
+   
+    {
+        "id": 1,
+        "name": "Day Planner",
+        "img": "./images/day planner-PIC.png",
+        "gif": "img gif",
+        "description": "A simple calendar app for Scheduling your work day",
+        "deployed": "https://bbenza.github.io/DayPlannerApp/",
+        "repo": "https://github.com/Bbenza/DayPlannerApp" 
+    },
+    {
+        "id": 2,
+        "name": "Random Password Generator",
+        "img": "./images/pwgen-PIC.png",
+        "gif": "img gif",
+        "description": "This application generates a random password based on user selected character sets and character length.",
+        "deployed": " https://bbenza.github.io/passwordGenerator/",
+        "repo": "" 
+    },
+    {
+        "id": 3,
+        "name": "Weather Dashboard",
+        "img": "./images/weather-PIC.png",
+        "gif": "img gif",
+        "description": "This a weather application .",
+        "deployed": "https://bbenza.github.io/WeatherDashApp/",
+        "repo": "https://github.com/Bbenza/WeatherDashApp" 
+    }
+]
